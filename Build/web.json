@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "IDontKnowWhatIsThis",
-"productVersion": "0.1",
+"companyName": "GOFStudios",
+"productName": "IDontKnowWhayIsThis",
+"productVersion": "1.0",
 "dataUrl": "web.data.unityweb",
 "wasmCodeUrl": "web.wasm.code.unityweb",
 "wasmFrameworkUrl": "web.wasm.framework.unityweb",
